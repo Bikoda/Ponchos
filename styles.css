@@ -1,0 +1,18 @@
+.banner {
+	background-color: #ffeaa0;
+	height: 75px;
+	width: 100%;
+}
+.side {
+	height:600px;
+	background-color: #fdfa9d;
+}
+.fit {
+	height:520px;
+	width:100%;
+	border: 1px solid #000;
+}
+.foot {
+	background-color: #fc7563;
+	width: :100%;
+}
